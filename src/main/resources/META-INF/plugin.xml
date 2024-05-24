@@ -2,6 +2,7 @@
 <idea-plugin>
     <id>com.github.raulaguila.jetbrainsprodarktheme</id>
     <name>Pro Dark Theme</name>
+    <description>theme for development taking into account color variations to distinguish each item</description>
     <vendor url="https://github.com/raulaguila/jetbrains-pro-dark-theme">Raul del Aguila</vendor>
 
     <depends>com.intellij.modules.platform</depends>
