@@ -29,6 +29,12 @@ Theme plugin for intellij.
   <img src="https://contrib.rocks/image?repo=raulaguila/jetbrains-pro-dark-theme">
 </a>
 
+
+## License
+
+Copyright © 2024 [raulaguila](https://github.com/raulaguila).
+This project is [ICS](../LICENSE) licensed.
+
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 
