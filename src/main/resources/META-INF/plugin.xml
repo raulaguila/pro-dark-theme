@@ -1,11 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.raulaguila.jetbrainsprodarktheme</id>
-    <name>jetbrains-pro-dark-theme</name>
-    <vendor>raulaguila</vendor>
+    <name>Pro Dark Theme</name>
+    <vendor url="https://github.com/raulaguila/jetbrains-pro-dark-theme">Raul del Aguila</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
+    <idea-version since-build="203.7148.57"/>
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">

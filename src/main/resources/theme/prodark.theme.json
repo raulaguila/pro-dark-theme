@@ -2,11 +2,7 @@
   "name": "Pro Dark Theme",
   "dark": true,
   "author": "Raul del Aguila",
-  "colors": {
-    "red": "#821010"
-  },
-  "ui": {
-    "Button.background": "red"
-  },
-  "editorScheme": "/theme/prodark.xml"
+  "colors": {},
+  "editorScheme": "/theme/prodark.xml",
+  "ui": {}
 }
