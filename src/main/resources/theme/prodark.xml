@@ -944,6 +944,11 @@
                 <option name="FOREGROUND" value="e5c07b" />
             </value>
         </option>
+        <option name="GO_PACKAGE_LOCAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="ef596f" />
+            </value>
+        </option>
         <option name="GO_REASSIGNMENT_IN_SHORT_VAR_DECLARATION">
             <value>
                 <option name="FOREGROUND" value="ef596f" />
