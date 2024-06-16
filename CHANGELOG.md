@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# jetbrains-pro-dark-theme Changelog
+# pro-dark-theme Changelog
 
 ## [Unreleased]
 ### Added

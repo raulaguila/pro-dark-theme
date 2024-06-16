@@ -1,9 +1,9 @@
-package com.github.raulaguila.jetbrainsprodarktheme.services
+package com.github.raulaguila.prodarktheme.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.raulaguila.jetbrainsprodarktheme.MyBundle
+import com.github.raulaguila.prodarktheme.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

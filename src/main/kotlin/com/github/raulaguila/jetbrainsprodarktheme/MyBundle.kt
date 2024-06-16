@@ -1,4 +1,4 @@
-package com.github.raulaguila.jetbrainsprodarktheme
+package com.github.raulaguila.prodarktheme
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

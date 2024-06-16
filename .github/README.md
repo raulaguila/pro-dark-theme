@@ -1,6 +1,6 @@
 <h1 style="text-align:center">Pro Dark Theme</h1>
   
-![Build](https://github.com/raulaguila/jetbrains-pro-dark-theme/workflows/Build/badge.svg)
+![Build](https://github.com/raulaguila/pro-dark-theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/24501.svg)](https://plugins.jetbrains.com/plugin/24501)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/24501.svg)](https://plugins.jetbrains.com/plugin/24501)
 
@@ -17,7 +17,7 @@
   
 - Manually:
 
-  Download the [latest release](https://github.com/raulaguila/jetbrains-pro-dark-theme/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/raulaguila/pro-dark-theme/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Code status
@@ -26,8 +26,8 @@
 
 ## Contributors
 
-<a href="https://github.com/raulaguila/jetbrains-pro-dark-theme" target="_blank">
-  <img src="https://contrib.rocks/image?repo=raulaguila/jetbrains-pro-dark-theme">
+<a href="https://github.com/raulaguila/pro-dark-theme" target="_blank">
+  <img src="https://contrib.rocks/image?repo=raulaguila/pro-dark-theme">
 </a>
 
 

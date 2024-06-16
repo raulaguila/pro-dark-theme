@@ -1,4 +1,4 @@
-package com.github.raulaguila.jetbrainsprodarktheme.listeners
+package com.github.raulaguila.prodarktheme.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
