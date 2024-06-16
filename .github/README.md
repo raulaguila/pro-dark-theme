@@ -1,28 +1,18 @@
 <h1 style="text-align:center">Pro Dark Theme</h1>
-
-<div style="text-align: center;">
-
+  
 ![Build](https://github.com/raulaguila/jetbrains-pro-dark-theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/24501.svg)](https://plugins.jetbrains.com/plugin/24501)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/24501.svg)](https://plugins.jetbrains.com/plugin/24501)
 
-</div>
-
 > [Pro Dark](https://plugins.jetbrains.com/plugin/24501) theme for JetBrains.
 
-<div style="text-align: center;">
-
-![image](../screenshot/goland.png)
-
-</div>
-
-Theme plugin for intellij.
+![goland](../screenshot/goland.png)
 
 ## Installation
 
 - Using the IDE built-in plugin system:
   
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "jetbrains-pro-dark-theme"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Pro Dark Theme"</kbd> >
   <kbd>Install</kbd>
   
 - Manually:
