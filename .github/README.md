@@ -8,6 +8,8 @@
 
 </div>
 
+> [Pro Dark](https://plugins.jetbrains.com/plugin/24501) theme for JetBrains.
+
 <div style="text-align: center;">
 
 ![image](../screenshot/goland.png)
