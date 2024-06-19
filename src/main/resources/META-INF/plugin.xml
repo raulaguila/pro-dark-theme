@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
-<idea-plugin  require-restart="true">
+<idea-plugin require-restart="true">
     <id>com.github.raulaguila.prodarktheme</id>
     <name>Pro Dark Theme</name>
-    <!--    <description>theme</description>-->
+    <description>theme plugin for golang and python languages</description>
     <vendor url="https://github.com/raulaguila/pro-dark-theme">Raul del Aguila</vendor>
 
     <depends>com.intellij.modules.platform</depends>
