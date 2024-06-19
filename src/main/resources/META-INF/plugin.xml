@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
-<idea-plugin>
+<idea-plugin  require-restart="true">
     <id>com.github.raulaguila.prodarktheme</id>
     <name>Pro Dark Theme</name>
-    <description>theme for development taking into account color variations to distinguish each item</description>
+    <!--    <description>theme</description>-->
     <vendor url="https://github.com/raulaguila/pro-dark-theme">Raul del Aguila</vendor>
 
     <depends>com.intellij.modules.platform</depends>
