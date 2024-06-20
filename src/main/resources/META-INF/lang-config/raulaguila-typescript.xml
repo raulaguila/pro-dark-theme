@@ -1,0 +1,8 @@
+<!--Suports both JavaScript and TypeScript-->
+<idea-plugin>
+    <extensions defaultExtensionNs="com.intellij">
+        <annotator order="last" language="TypeScript"
+                   implementationClass="com.github.raulaguila.prodarktheme.annotators.TSAnnotator"/>
+        <colorSettingsPage order="last" implementation="com.github.raulaguila.prodarktheme.annotators.settings.TSColorSettingsPage"/>
+    </extensions>
+</idea-plugin>

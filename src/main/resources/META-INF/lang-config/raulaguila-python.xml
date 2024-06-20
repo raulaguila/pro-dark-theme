@@ -1,0 +1,9 @@
+<idea-plugin>
+    <extensions defaultExtensionNs="com.intellij">
+        <annotator language="Python" order="first"
+                   implementationClass="com.github.raulaguila.prodarktheme.annotators.PyAnnotator"/>
+        <colorSettingsPage order="first" implementation="com.github.raulaguila.prodarktheme.annotators.settings.PyColorSettingsPage"/>
+        <highlightVisitor order="first"
+                          implementation="com.github.raulaguila.prodarktheme.highlightVisitor.PyHighlightVisitor"/>
+    </extensions>
+</idea-plugin>

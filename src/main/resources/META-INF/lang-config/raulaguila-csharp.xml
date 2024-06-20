@@ -1,0 +1,6 @@
+<idea-plugin>
+    <extensions defaultExtensionNs="com.intellij">
+        <annotator language="C#" order="last"
+                   implementationClass="com.github.raulaguila.prodarktheme.annotators.CSharpAnnotator"/>
+    </extensions>
+</idea-plugin>

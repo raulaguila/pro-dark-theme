@@ -1,0 +1,8 @@
+<idea-plugin>
+    <extensions defaultExtensionNs="com.intellij">
+        <annotator language="Dart" order="first"
+                   implementationClass="com.github.raulaguila.prodarktheme.annotators.DartAnnotator"/>
+        <colorSettingsPage order="last" implementation="com.github.raulaguila.prodarktheme.annotators.settings.DartColorSettingsPage"/>
+
+    </extensions>
+</idea-plugin>

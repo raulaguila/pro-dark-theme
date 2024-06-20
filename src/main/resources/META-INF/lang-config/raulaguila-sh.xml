@@ -1,0 +1,6 @@
+<idea-plugin>
+    <extensions defaultExtensionNs="com.intellij">
+        <annotator language="Shell Script" order="last"
+                   implementationClass="com.github.raulaguila.prodarktheme.annotators.ShAnnotator"/>
+    </extensions>
+</idea-plugin>

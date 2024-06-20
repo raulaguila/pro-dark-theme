@@ -7,6 +7,19 @@
 
     <depends>com.intellij.modules.platform</depends>
 
+    <depends config-file="lang-config/raulaguila-python-community.xml" optional="true">PythonCore</depends>
+    <depends config-file="lang-config/raulaguila-python.xml" optional="true">Pythonid</depends>
+    <depends config-file="lang-config/raulaguila-go.xml" optional="true">org.jetbrains.plugins.go</depends>
+    <depends config-file="lang-config/raulaguila-javascript.xml" optional="true">JavaScript</depends>
+    <depends config-file="lang-config/raulaguila-java.xml" optional="true">com.intellij.java</depends>
+    <depends config-file="lang-config/raulaguila-dart.xml" optional="true">Dart</depends>
+    <depends config-file="lang-config/raulaguila-kotlin.xml" optional="true">org.jetbrains.kotlin</depends>
+    <depends config-file="lang-config/raulaguila-csharp.xml" optional="true">com.intellij.modules.rider</depends>
+    <depends config-file="lang-config/raulaguila-php.xml" optional="true">com.jetbrains.php</depends>
+    <depends config-file="lang-config/raulaguila-clion.xml"  optional="true">com.intellij.cidr.lang</depends>
+    <depends config-file="lang-config/raulaguila-rust.xml" optional="true">com.jetbrains.rust</depends>
+    <depends config-file="lang-config/raulaguila-sh.xml" optional="true">com.jetbrains.sh</depends>
+
     <idea-version since-build="203.7148.57"/>
     <resource-bundle>messages.MyBundle</resource-bundle>
 
