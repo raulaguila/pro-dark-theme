@@ -3,3 +3,4 @@ plugins {
 }
 
 rootProject.name = "pro-dark-theme"
+//include("ide-clion")
