@@ -20,11 +20,25 @@
     <depends config-file="lang-config/raulaguila-rust.xml" optional="true">com.jetbrains.rust</depends>
     <depends config-file="lang-config/raulaguila-sh.xml" optional="true">com.jetbrains.sh</depends>
 
-    <idea-version since-build="203.7148.57"/>
+    <idea-version since-build="233.11799.241"/>
+<!--    <idea-version since-build="203.7148.57"/>-->
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.raulaguila.prodarktheme" path="/theme/prodark.theme.json"/>
+        <applicationService serviceImplementation="com.github.raulaguila.prodarktheme.settings.ProDarkThemeSettingsStore"/>
+        <notificationGroup id="Pro Dark Theme Notification Group" displayType="STICKY_BALLOON"/>
+        <errorHandler implementation="com.github.raulaguila.prodarktheme.diagnostic.ProDarkErrorReportSubmitter"/>
     </extensions>
 
+    <actions>
+        <action id="com.github.raulaguila.prodarktheme.actions.AlwaysApplyThemeAction"
+                class="com.github.raulaguila.prodarktheme.actions.AlwaysApplyThemeAction"
+                text="Always Apply" description="Always action">
+        </action>
+        <action id="com.github.raulaguila.prodarktheme.actions.StarGithubRepoAction"
+                class="com.github.raulaguila.prodarktheme.actions.StarGithubRepoAction"
+                text="Star Github Repo">
+        </action>
+    </actions>
 </idea-plugin>
