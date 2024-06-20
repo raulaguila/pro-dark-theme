@@ -1,10 +1,10 @@
 <h1 style="text-align:center">Pro Dark Theme</h1>
   
 ![Build](https://github.com/raulaguila/pro-dark-theme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/24501.svg)](https://plugins.jetbrains.com/plugin/24501)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/24501.svg)](https://plugins.jetbrains.com/plugin/24501)
+[![Version](https://img.shields.io/jetbrains/plugin/v/24638.svg)](https://plugins.jetbrains.com/plugin/24638)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/24638.svg)](https://plugins.jetbrains.com/plugin/24638)
 
-> [Pro Dark](https://plugins.jetbrains.com/plugin/24501) theme for JetBrains.
+> [Pro Dark](https://plugins.jetbrains.com/plugin/24638) theme for JetBrains.
 
 ![goland](../screenshot/goland.png)
 
@@ -27,7 +27,7 @@
 ## Contributors
 
 <a href="https://github.com/raulaguila/pro-dark-theme" target="_blank">
-  <img src="https://contrib.rocks/image?repo=raulaguila/pro-dark-theme">
+  <img src="https://contrib.rocks/image?repo=raulaguila/pro-dark-theme" alt="Pro Dark Theme">
 </a>
 
 
